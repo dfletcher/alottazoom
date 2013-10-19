@@ -123,6 +123,7 @@ Version notes
         updating multiple properties at once.
       - A command similar to "goto" that auto navigates to markers and pins
         without specifying numbers.
+      - Link to markers and pins using URL fragments.
 
 Example image
 -------------

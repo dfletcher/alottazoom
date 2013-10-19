@@ -175,3 +175,10 @@ P {
   filter: alpha(opacity=100);
   -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
+
+.download {
+  display: block;
+  float: right;
+  font-size: small;
+  margin: 0 32px 0 0;
+}
