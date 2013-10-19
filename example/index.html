@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>AlottaZoom</title>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" ></script>
+    <script>window.jQuery || document.write('<script src="jquery.min.js">\x3C/script>')</script>
+    <script src="../alottazoom.js"></script>
+    <script>
+      (function ( $ ) {
+        $(document).ready(function() {
+          $('#wrapper').alottazoom();
+        });
+      }( jQuery ));
+    </script>
+    <style>@import url("../alottazoom.css");</style>
+    <style>@import url("example.css");</style>
+  </head>
+
+  <body>
+    <h1>AlottaZoom: Smooth jQuery pan and zoom</h1>
+    <div id="wrapper">
+      <img src="example.png">
+      <a id="test1" title="Test 1" href="#" class="marker" data-x="320" data-y="1450"></a>
+      <a id="test2" title="Test 2" href="#" class="marker" data-x="1500" data-y="40"></a>
+    </div>
+    <div id="directional">
+      <a id="directional-up" href="#" onclick="$('#wrapper').alottazoom('shift', 0, 150); return false;">Up</a>
+      <div id="directional-middle">
+        <a id="directional-left" href="#" onclick="$('#wrapper').alottazoom('shift', 150, 0); return false;" >Left</a>
+        <a id="directional-reset" href="#" onclick="$('#wrapper').alottazoom('reset'); return false;">Reset</a>
+        <a id="directional-right" href="#" onclick="$('#wrapper').alottazoom('shift', -150, 0); return false;">Right</a>
+      </div>
+      <a id="directional-down" href="#" onclick="$('#wrapper').alottazoom('shift', 0, -150); return false;">Down</a>
+    </div>
+    <div id="gotos">
+      <a href="#" onclick="$('#wrapper').alottazoom('goto', 320, 1450, 0.5); return false;">Test 1</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#" onclick="$('#wrapper').alottazoom('goto', 1500, 40, 0.5); return false;">Test 2</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#" onclick="$('#wrapper').alottazoom('reset'); return false;">Reset</a>
+    </div>
+    <div id="marker-content-box">
+      <div class="marker-content" data-marker="test1">
+        <h2>Test 1</h2>
+        <p>This content only appears if marker "Test 1" is activated.</p>
+      </div>
+      <div class="marker-content" data-marker="test2">
+        <h2>Test 2</h2>
+        <p>This content only appears when marker "Test 2" is activated.</p>
+      </div>
+    </div>
+  </body>
+
+</html>

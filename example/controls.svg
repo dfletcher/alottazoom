@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3902"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="controls.svg">
+  <defs
+     id="defs3904">
+    <linearGradient
+       id="linearGradient5171">
+      <stop
+         id="stop5173"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop5175"
+         offset="1"
+         style="stop-color:#f8ea00;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4890">
+      <stop
+         style="stop-color:#447821;stop-opacity:1;"
+         offset="0"
+         id="stop4892" />
+      <stop
+         style="stop-color:#447821;stop-opacity:0;"
+         offset="1"
+         id="stop4894" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4874">
+      <stop
+         style="stop-color:#bde5a1;stop-opacity:1;"
+         offset="0"
+         id="stop4876" />
+      <stop
+         style="stop-color:#447821;stop-opacity:1;"
+         offset="1"
+         id="stop4878" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4874"
+       id="radialGradient4880"
+       cx="236.81779"
+       cy="316.74963"
+       fx="236.81779"
+       fy="316.74963"
+       r="11.202512"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.23751122,0.36332528,-0.50937715,-0.33298753,470.31723,333.49574)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4890"
+       id="linearGradient4896"
+       x1="121.90836"
+       y1="336.36966"
+       x2="138.6863"
+       y2="336.36966"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4890"
+       id="linearGradient4906"
+       gradientUnits="userSpaceOnUse"
+       x1="121.90836"
+       y1="336.36966"
+       x2="138.6863"
+       y2="336.36966" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4890"
+       id="linearGradient4916"
+       gradientUnits="userSpaceOnUse"
+       x1="121.90836"
+       y1="336.36966"
+       x2="138.6863"
+       y2="336.36966" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4890"
+       id="linearGradient4920"
+       gradientUnits="userSpaceOnUse"
+       x1="121.90836"
+       y1="336.36966"
+       x2="138.6863"
+       y2="336.36966" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4890"
+       id="linearGradient4934"
+       gradientUnits="userSpaceOnUse"
+       x1="121.90836"
+       y1="336.36966"
+       x2="138.6863"
+       y2="336.36966" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4890"
+       id="linearGradient4938"
+       gradientUnits="userSpaceOnUse"
+       x1="121.90836"
+       y1="336.36966"
+       x2="138.6863"
+       y2="336.36966" />
+    <filter
+       inkscape:collect="always"
+       id="filter5015">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.5958656"
+         id="feGaussianBlur5017" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5171"
+       id="radialGradient5177"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.23751122,0.36332528,-0.50937715,-0.33298753,470.31723,333.49574)"
+       cx="236.81779"
+       cy="316.74963"
+       fx="236.81779"
+       fy="316.74963"
+       r="11.202512" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4874"
+       id="radialGradient5208"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.23751122,0.36332528,-0.50937715,-0.33298753,470.31723,333.49574)"
+       cx="236.81779"
+       cy="316.74963"
+       fx="236.81779"
+       fy="316.74963"
+       r="11.202512" />
+    <filter
+       id="filter4631"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4633"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset4635"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite4637"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood4639"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend4641"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite4643"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter4645"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4647"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset4649"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite4651"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood4653"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend4655"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite4657"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter4659"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4661"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset4663"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite4665"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood4667"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend4669"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite4671"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter4673"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4675"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset4677"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite4679"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood4681"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend4683"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite4685"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter4687"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4689"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset4691"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite4693"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood4695"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend4697"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite4699"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter4765"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4767"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset4769"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite4771"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood4773"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend4775"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite4777"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter4779"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4781"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset4783"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite4785"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood4787"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend4789"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite4791"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter4793"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4795"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset4797"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite4799"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood4801"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend4803"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite4805"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter4807"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4809"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset4811"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite4813"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood4815"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend4817"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite4819"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter4821"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4823"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset4825"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite4827"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood4829"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend4831"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite4833"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="240.84466"
+     inkscape:cy="794.71521"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1071"
+     inkscape:window-height="843"
+     inkscape:window-x="247"
+     inkscape:window-y="126"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3907">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5272"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-reset-hover.png"
+       inkscape:export-xdpi="112.5"
+       inkscape:export-ydpi="112.5">
+      <path
+         transform="matrix(0.83905243,0,0,0.83905243,-100.64411,90.72487)"
+         d="m 260.21529,318.73889 a 10.606602,10.606602 0 1 1 -21.2132,0 10.606602,10.606602 0 1 1 21.2132,0 z"
+         sodipodi:ry="10.606602"
+         sodipodi:rx="10.606602"
+         sodipodi:cy="318.73889"
+         sodipodi:cx="249.60869"
+         id="path5090"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.38364124;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter5015)"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#radialGradient5177);fill-opacity:1;stroke:#000000;stroke-width:1.19182062;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path5110"
+         sodipodi:cx="249.60869"
+         sodipodi:cy="318.73889"
+         sodipodi:rx="10.606602"
+         sodipodi:ry="10.606602"
+         d="m 260.21529,318.73889 a 10.606602,10.606602 0 1 1 -21.2132,0 10.606602,10.606602 0 1 1 21.2132,0 z"
+         transform="matrix(0.83905243,0,0,0.83905243,-100.64411,90.72487)" />
+    </g>
+    <g
+       id="g5260"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-right-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="matrix(0,-1,0.94087566,0,-183.19136,488.46084)"
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5015);font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="path5094"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5114"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f8ea00;fill-opacity:1;stroke:#000000;stroke-width:0.96998745;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         d="m 125.87336,350.27454 14.83462,7.88897 -14.83462,7.88897 z" />
+    </g>
+    <g
+       id="g5268"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-left-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="matrix(0,1,-0.94087566,0,400.7727,227.86618)"
+         inkscape:connector-curvature="0"
+         id="path5098"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5015);font-family:Arial;-inkscape-font-specification:Arial Bold"
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+      <path
+         d="m 91.707983,366.05248 -14.834627,-7.88897 14.834627,-7.88897 z"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f8ea00;fill-opacity:1;stroke:#000000;stroke-width:0.96998745;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="path5118"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5264"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-down-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="matrix(1,0,0,0.94087566,-21.50666,66.18148)"
+         inkscape:connector-curvature="0"
+         id="path5102"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5015);font-family:Arial;-inkscape-font-specification:Arial Bold"
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+      <path
+         d="m 116.67964,375.2462 -7.88897,14.83462 -7.88897,-14.83462 z"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f8ea00;fill-opacity:1;stroke:#000000;stroke-width:0.96998745;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="path5122"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5256"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-up-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="matrix(-1,0,0,-0.94087566,239.088,650.14554)"
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5015);font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="path5106"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5126"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f8ea00;fill-opacity:1;stroke:#000000;stroke-width:0.96998745;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         d="m 100.9017,341.08082 7.88897,-14.83462 7.88897,14.83462 z" />
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-bg.png"
+       style="fill:#bec8b7;fill-opacity:1;stroke:#003304;stroke-width:0.99999988;stroke-opacity:1"
+       id="rect3045"
+       width="89"
+       height="89"
+       x="64.299118"
+       y="211.10783" />
+    <g
+       id="g5240"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-reset.png"
+       inkscape:export-xdpi="112.5"
+       inkscape:export-ydpi="112.5"
+       transform="translate(0.78449902,8.2372882)">
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.38364124;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter5015)"
+         id="path4961"
+         sodipodi:cx="249.60869"
+         sodipodi:cy="318.73889"
+         sodipodi:rx="10.606602"
+         sodipodi:ry="10.606602"
+         d="m 260.21529,318.73889 c 0,5.85787 -4.74874,10.6066 -10.6066,10.6066 -5.85787,0 -10.6066,-4.74873 -10.6066,-10.6066 0,-5.85786 4.74873,-10.6066 10.6066,-10.6066 5.85786,0 10.6066,4.74874 10.6066,10.6066 z"
+         transform="matrix(0.83905243,0,0,0.83905243,-100.64411,-20.275128)" />
+      <path
+         transform="matrix(0.83905243,0,0,0.83905243,-100.64411,-20.275128)"
+         d="m 260.21529,318.73889 c 0,5.85787 -4.74874,10.6066 -10.6066,10.6066 -5.85787,0 -10.6066,-4.74873 -10.6066,-10.6066 0,-5.85786 4.74873,-10.6066 10.6066,-10.6066 5.85786,0 10.6066,4.74874 10.6066,10.6066 z"
+         sodipodi:ry="10.606602"
+         sodipodi:rx="10.606602"
+         sodipodi:cy="318.73889"
+         sodipodi:cx="249.60869"
+         id="path4816"
+         style="fill:url(#radialGradient5208);fill-opacity:1;stroke:#000000;stroke-width:1.19182062;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g5234"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0.78449902,8.2372882)">
+      <g
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5015);font-family:Eccentric;-inkscape-font-specification:Eccentric"
+         id="g4963"
+         transform="matrix(0,-1,0.94087566,0,-183.19136,377.46084)">
+        <path
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+           style="font-weight:bold;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="path4965"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0,-1,0.94087566,0,-183.19136,377.46084)"
+         id="g4758"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4760"
+           style="font-weight:bold;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+      </g>
+    </g>
+    <g
+       id="g5250"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0.78449902,8.2372882)">
+      <g
+         transform="matrix(0,1,-0.94087566,0,400.7727,116.86618)"
+         id="g4967"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5015);font-family:Eccentric;-inkscape-font-specification:Eccentric">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4969"
+           style="font-weight:bold;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+      </g>
+      <g
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+         id="g4900"
+         transform="matrix(0,1,-0.94087566,0,400.7727,116.86618)">
+        <path
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+           style="font-weight:bold;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="path4902"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g5244"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-down.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0.78449902,8.2372882)">
+      <g
+         transform="matrix(1,0,0,0.94087566,-21.50666,-44.81852)"
+         id="g4971"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5015);font-family:Eccentric;-inkscape-font-specification:Eccentric">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4973"
+           style="font-weight:bold;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+      </g>
+      <g
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+         id="g4924"
+         transform="matrix(1,0,0,0.94087566,-21.50666,-44.81852)">
+        <path
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+           style="font-weight:bold;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="path4926"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g5228"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-up.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0.78449902,8.2372882)">
+      <g
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5015);font-family:Eccentric;-inkscape-font-specification:Eccentric"
+         id="g4975"
+         transform="matrix(-1,0,0,-0.94087566,239.088,539.14554)">
+        <path
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+           style="font-weight:bold;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="path4977"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,-0.94087566,239.088,539.14554)"
+         id="g4928"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4930"
+           style="font-weight:bold;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+      </g>
+    </g>
+    <rect
+       y="211.10783"
+       x="190.51767"
+       height="89"
+       width="89"
+       id="rect3047"
+       style="fill:#bec8b7;fill-opacity:1;stroke:#003304;stroke-width:0.99999988;stroke-opacity:1"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-bg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.83905243,0,0,0.83905243,27.41961,-12.03784)"
+       d="m 260.21529,318.73889 a 10.606602,10.606602 0 1 1 -21.2132,0 10.606602,10.606602 0 1 1 21.2132,0 z"
+       sodipodi:ry="10.606602"
+       sodipodi:rx="10.606602"
+       sodipodi:cy="318.73889"
+       sodipodi:cx="249.60869"
+       id="path3957"
+       style="fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-width:2.38364124000000020;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-width:1.19182062000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3959"
+       sodipodi:cx="249.60869"
+       sodipodi:cy="318.73889"
+       sodipodi:rx="10.606602"
+       sodipodi:ry="10.606602"
+       d="m 260.21529,318.73889 a 10.606602,10.606602 0 1 1 -21.2132,0 10.606602,10.606602 0 1 1 21.2132,0 z"
+       transform="matrix(0.83905243,0,0,0.83905243,27.41961,-12.03784)"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-reset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(0,-1,0.94087566,0,-55.12764,385.69813)"
+       id="g3963"
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3965"
+         style="font-weight:bold;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+    </g>
+    <g
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+       id="g3967"
+       transform="matrix(0,-1,0.94087566,0,-55.12764,385.69813)"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-right.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+         style="font-weight:bold;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="path3969"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+       id="g3973"
+       transform="matrix(0,1,-0.94087566,0,528.83642,125.10347)">
+      <path
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+         style="font-weight:bold;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="path3975"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0,1,-0.94087566,0,528.83642,125.10347)"
+       id="g3977"
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-left.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3979"
+         style="font-weight:bold;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+    </g>
+    <g
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+       id="g3983"
+       transform="matrix(1,0,0,0.94087566,106.55706,-36.581232)">
+      <path
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+         style="font-weight:bold;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="path3985"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(1,0,0,0.94087566,106.55706,-36.581232)"
+       id="g3987"
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-down.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3989"
+         style="font-weight:bold;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,-0.94087566,367.15172,547.38283)"
+       id="g3993"
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3995"
+         style="font-weight:bold;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+    </g>
+    <g
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+       id="g3997"
+       transform="matrix(-1,0,0,-0.94087566,367.15172,547.38283)"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-up.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+         style="font-weight:bold;fill:#4c8625;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="path3999"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-bg.png"
+       style="fill:#c4c8b7;fill-opacity:1;stroke:#003304;stroke-width:0.99999987999999995;stroke-opacity:1"
+       id="rect4133"
+       width="89"
+       height="89"
+       x="323.51767"
+       y="211.10783" />
+    <g
+       transform="translate(261.06372,8.2372882)"
+       inkscape:export-ydpi="112.5"
+       inkscape:export-xdpi="112.5"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-reset.png"
+       id="g4135"
+       style="fill:#447821;fill-opacity:1;filter:url(#filter4687)">
+      <path
+         transform="matrix(0.83905243,0,0,0.83905243,-100.64411,-20.275128)"
+         d="m 260.21529,318.73889 c 0,5.85787 -4.74874,10.6066 -10.6066,10.6066 -5.85787,0 -10.6066,-4.74873 -10.6066,-10.6066 0,-5.85786 4.74873,-10.6066 10.6066,-10.6066 5.85786,0 10.6066,4.74874 10.6066,10.6066 z"
+         sodipodi:ry="10.606602"
+         sodipodi:rx="10.606602"
+         sodipodi:cy="318.73889"
+         sodipodi:cx="249.60869"
+         id="path4137"
+         style="fill:#447821;fill-opacity:1;stroke:#000000;stroke-width:2.38364124;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#447821;fill-opacity:1;stroke:#000000;stroke-width:1.19182062;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4139"
+         sodipodi:cx="249.60869"
+         sodipodi:cy="318.73889"
+         sodipodi:rx="10.606602"
+         sodipodi:ry="10.606602"
+         d="m 260.21529,318.73889 c 0,5.85787 -4.74874,10.6066 -10.6066,10.6066 -5.85787,0 -10.6066,-4.74873 -10.6066,-10.6066 0,-5.85786 4.74873,-10.6066 10.6066,-10.6066 5.85786,0 10.6066,4.74874 10.6066,10.6066 z"
+         transform="matrix(0.83905243,0,0,0.83905243,-100.64411,-20.275128)" />
+    </g>
+    <g
+       transform="translate(261.06372,8.2372882)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-right.png"
+       id="g4141"
+       style="filter:url(#filter4673)">
+      <g
+         transform="matrix(0,-1,0.94087566,0,-183.19136,377.46084)"
+         id="g4143"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4145"
+           style="font-weight:bold;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+      </g>
+      <g
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+         id="g4147"
+         transform="matrix(0,-1,0.94087566,0,-183.19136,377.46084)">
+        <path
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+           style="font-weight:bold;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="path4149"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="translate(261.06372,8.2372882)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-left.png"
+       id="g4151"
+       style="filter:url(#filter4659)">
+      <g
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+         id="g4153"
+         transform="matrix(0,1,-0.94087566,0,400.7727,116.86618)">
+        <path
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+           style="font-weight:bold;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="path4155"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0,1,-0.94087566,0,400.7727,116.86618)"
+         id="g4157"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4159"
+           style="font-weight:bold;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(261.06372,8.2372882)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-down.png"
+       id="g4161"
+       style="filter:url(#filter4645)">
+      <g
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+         id="g4163"
+         transform="matrix(1,0,0,0.94087566,-21.50666,-44.81852)">
+        <path
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+           style="font-weight:bold;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="path4165"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(1,0,0,0.94087566,-21.50666,-44.81852)"
+         id="g4167"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4169"
+           style="font-weight:bold;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(261.06372,8.2372882)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-up.png"
+       id="g4171"
+       style="filter:url(#filter4631)">
+      <g
+         transform="matrix(-1,0,0,-0.94087566,239.088,539.14554)"
+         id="g4173"
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4175"
+           style="font-weight:bold;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.06188226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+      </g>
+      <g
+         style="font-size:22.7557888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+         id="g4177"
+         transform="matrix(-1,0,0,-0.94087566,239.088,539.14554)">
+        <path
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+           style="font-weight:bold;fill:#447821;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="path4179"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-bg.png"
+       style="fill:#bec8b7;fill-opacity:1;stroke:#003304;stroke-width:0.99999988;stroke-opacity:1"
+       id="rect4717"
+       width="89"
+       height="89"
+       x="318.51767"
+       y="323.10785" />
+    <g
+       transform="translate(256.06372,120.23729)"
+       inkscape:export-ydpi="112.5"
+       inkscape:export-xdpi="112.5"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-reset-hover.png"
+       id="g4719"
+       style="fill:#ffd42a;fill-opacity:1;filter:url(#filter4821)">
+      <path
+         transform="matrix(0.83905243,0,0,0.83905243,-100.64411,-20.275128)"
+         d="m 260.21529,318.73889 c 0,5.85787 -4.74874,10.6066 -10.6066,10.6066 -5.85787,0 -10.6066,-4.74873 -10.6066,-10.6066 0,-5.85786 4.74873,-10.6066 10.6066,-10.6066 5.85786,0 10.6066,4.74874 10.6066,10.6066 z"
+         sodipodi:ry="10.606602"
+         sodipodi:rx="10.606602"
+         sodipodi:cy="318.73889"
+         sodipodi:cx="249.60869"
+         id="path4721"
+         style="fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:2.38364124000000020;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:1.19182062000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4723"
+         sodipodi:cx="249.60869"
+         sodipodi:cy="318.73889"
+         sodipodi:rx="10.606602"
+         sodipodi:ry="10.606602"
+         d="m 260.21529,318.73889 c 0,5.85787 -4.74874,10.6066 -10.6066,10.6066 -5.85787,0 -10.6066,-4.74873 -10.6066,-10.6066 0,-5.85786 4.74873,-10.6066 10.6066,-10.6066 5.85786,0 10.6066,4.74874 10.6066,10.6066 z"
+         transform="matrix(0.83905243,0,0,0.83905243,-100.64411,-20.275128)" />
+    </g>
+    <g
+       transform="translate(256.06372,120.23729)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-right-hover.png"
+       id="g4725"
+       style="fill:#ffd42a;filter:url(#filter4807)">
+      <g
+         transform="matrix(0,-1,0.94087566,0,-183.19136,377.46084)"
+         id="g4727"
+         style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4729"
+           style="font-weight:bold;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+      </g>
+      <g
+         style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+         id="g4731"
+         transform="matrix(0,-1,0.94087566,0,-183.19136,377.46084)">
+        <path
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+           style="font-weight:bold;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="path4733"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="translate(256.06372,120.23729)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-left-hover.png"
+       id="g4735"
+       style="fill:#ffd42a;filter:url(#filter4793)">
+      <g
+         style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+         id="g4737"
+         transform="matrix(0,1,-0.94087566,0,400.7727,116.86618)">
+        <path
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+           style="font-weight:bold;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="path4739"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0,1,-0.94087566,0,400.7727,116.86618)"
+         id="g4741"
+         style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4743"
+           style="font-weight:bold;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(256.06372,120.23729)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-down-hover.png"
+       id="g4745"
+       style="fill:#ffd42a;filter:url(#filter4779)">
+      <g
+         style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+         id="g4747"
+         transform="matrix(1,0,0,0.94087566,-21.50666,-44.81852)">
+        <path
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+           style="font-weight:bold;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="path4749"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(1,0,0,0.94087566,-21.50666,-44.81852)"
+         id="g4751"
+         style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4753"
+           style="font-weight:bold;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+      </g>
+    </g>
+    <g
+       transform="translate(256.06372,120.23729)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-up-hover.png"
+       id="g4755"
+       style="fill:#ffd42a;filter:url(#filter4765)">
+      <g
+         transform="matrix(-1,0,0,-0.94087566,239.088,539.14554)"
+         id="g4757"
+         style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4759"
+           style="font-weight:bold;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+      </g>
+      <g
+         style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+         id="g4761"
+         transform="matrix(-1,0,0,-0.94087566,239.088,539.14554)">
+        <path
+           d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+           style="font-weight:bold;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           id="path4763"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-bg.png"
+       style="fill:#bec8b7;fill-opacity:1;stroke:#003304;stroke-width:0.99999988;stroke-opacity:1"
+       id="rect5110"
+       width="89"
+       height="89"
+       x="190.51767"
+       y="322.10785" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-width:2.38364124000000020;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path5112"
+       sodipodi:cx="249.60869"
+       sodipodi:cy="318.73889"
+       sodipodi:rx="10.606602"
+       sodipodi:ry="10.606602"
+       d="m 260.21529,318.73889 a 10.606602,10.606602 0 1 1 -21.2132,0 10.606602,10.606602 0 1 1 21.2132,0 z"
+       transform="matrix(0.83905243,0,0,0.83905243,27.41961,98.96216)" />
+    <path
+       transform="matrix(0.83905243,0,0,0.83905243,27.41961,98.96216)"
+       d="m 260.21529,318.73889 a 10.606602,10.606602 0 1 1 -21.2132,0 10.606602,10.606602 0 1 1 21.2132,0 z"
+       sodipodi:ry="10.606602"
+       sodipodi:rx="10.606602"
+       sodipodi:cy="318.73889"
+       sodipodi:cx="249.60869"
+       id="path5115"
+       style="fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-width:1.19182062000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-reset-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+       id="g5117"
+       transform="matrix(0,-1,0.94087566,0,-55.12764,496.69813)">
+      <path
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+         style="font-weight:bold;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="path5119"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0,-1,0.94087566,0,-55.12764,496.69813)"
+       id="g5121"
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-right-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5123"
+         style="font-weight:bold;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+    </g>
+    <g
+       transform="matrix(0,1,-0.94087566,0,528.83642,236.10347)"
+       id="g5125"
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5127"
+         style="font-weight:bold;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+    </g>
+    <g
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+       id="g5129"
+       transform="matrix(0,1,-0.94087566,0,528.83642,236.10347)"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-left-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+         style="font-weight:bold;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="path5131"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(1,0,0,0.94087566,106.55706,74.418768)"
+       id="g5133"
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5135"
+         style="font-weight:bold;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+    </g>
+    <g
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+       id="g5137"
+       transform="matrix(1,0,0,0.94087566,106.55706,74.418768)"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-down-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+         style="font-weight:bold;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="path5139"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+       id="g5141"
+       transform="matrix(-1,0,0,-0.94087566,367.15172,658.38283)">
+      <path
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z"
+         style="font-weight:bold;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-width:2.06188226000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="path5143"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,-0.94087566,367.15172,658.38283)"
+       id="g5145"
+       style="font-size:22.75578880000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Eccentric;-inkscape-font-specification:Eccentric"
+       inkscape:export-filename="C:\cygwin\home\fletch\alottazoom\example\controls-up-hover.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5147"
+         style="font-weight:bold;fill:#f1c100;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         d="m 138.1863,328.48625 -7.88897,15.76683 -7.88897,-15.76683 z" />
+    </g>
+  </g>
+</svg>
