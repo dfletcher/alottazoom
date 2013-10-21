@@ -6,7 +6,7 @@ All rights reserved
 ---
 
 AlottaZoom: jQuery pan and zoom library
-Version: 0.0.1
+Version 0.0.1
 
 Usage
 -----
@@ -27,66 +27,63 @@ and examine the example code in the examples/ directory for more details.
 
 The $.alottazoom() constructor accepts the following options:
 
-    width (default: browser width)
-    Set the width of the container widget. Not recommended, instead use CSS to
-    position and size the container.
+API
+---
 
-    height (default: browser height)
-    Set the height of the container widget. Not recommended, instead use CSS to
-    position and size the container.
+### zoom (default: 'fill')
+Default zoom level. Accepted values:
+  - Numeric scale where 1.0 is full scale.
+  - 'fit' Fit the image to the container.
+  - 'fill' Fill the container with the image.
 
-    zoom (default: 1.0)
-    Default zoom level.
+### x (default: 0)
+When zoom is numeric, specify the horizontal viewport offset.
 
-    minzoom: (default: 1.0)
-    Minimum zoom level.
+### y (default: 0)
+When zoom is numeric, specify the vertical viewport offset.
 
-    maxzoom: (default: 6.0)
-    Maximum zoom level.
+### min_zoom (default: 'zoom')
+Minimum zoom level. Accepted values:
+  - Numeric scale where 1.0 is full scale.
+  - 'fit' Fit container is the minimum zoom.
+  - 'fill' Filled container is the minimum zoom.
+  - 'zoom' Use the default zoom as minimum.
 
-    zoomspeed (default: 6.0)
-    Speed of zooming.
+### max_zoom (default: 1.0)
+Maximum zoom level. Normally should be left at 1.0, values larger than
+this may cause the image to upscale.
 
-    dragspeed (default: 0.68)
-    Speed of dragging.
+### zoom_speed (default: 6.0)
+Speed of zooming.
 
-    moveduration (default 750)
-    Duration of motion animation in milliseconds.
+### drag_speed (default: 0.68)
+Speed of dragging.
 
-    zoomduration (default: 550)
-    Duration of zoom animation in milliseconds.
+### move_easing (default: 'alottaZoomZoom')
+Easing function for motion animation.
 
-    resetduration (default: 550)
-    Duration of reset animation in milliseconds.
+### move_duration (default 750)
+Duration of motion animation in milliseconds.
 
-    moveeasing (default: 'alottaZoomSquare')
-    Easing function for motion animation.
+### zoom_easing (default: 'alottaZoomZoom')
+Easing function for zoom animation.
 
-    zoomeasing (default: 'swing')
-    Easing function for zoom animation.
+### zoom_duration (default: 550)
+Duration of zoom animation in milliseconds.
 
-    reseteasing (default: 'swing')
-    Easing function for reset animation.
+### reset_easing (default: 'alottaZoomZoom')
+Easing function for reset animation.
 
-    activate_content (default: 'slideDown')
-    jQuery effect to use when marker related content is activated.
+### reset_duration (default: 550)
+Duration of reset animation in milliseconds.
 
-    activate_content_speed (default: 'slow')
-    Duration of jQuery effect when marker related content is activated.
+### marker_activate_callback (default: null)
+Callback function when a marker is activated.
+Params: ($alottazoom, $marker)
 
-    deactivate_content (default: 'slideUp')
-    jQuery effect to use when marker related content is deactivated.
-
-    deactivate_content_speed (default: 'fast')
-    Duration of jQuery effect when marker related content is deactivated.
-
-    activate_content_callback (default: null)
-    Callback function when a marker is activated.
-    Params: ($alottazoom, $marker)
-
-    deactivate_content_callback (default: null)
-    Callback function when a marker is deactivated.
-    Params: ($alottazoom, $marker)
+### marker_deactivate_callback (default: null)
+Callback function when a marker is deactivated.
+Params: ($alottazoom, $marker)
 
 When $.alottazoom() is called after construction it is used to control pan and
 zoom locations or to reset to the initial state.
@@ -94,14 +91,17 @@ zoom locations or to reset to the initial state.
 Commands
 --------
 
-    reset()
+### reset
     Reset the widget to the initial state.
 
-    goto(x,y,z)
+### goto x, y, z
     Go to a particular x,y (in full-scale coordinates) and zoom level.
 
-    shift(x,y)
+### shift x, y
     Shift the view vertically and/or horizontally.
+
+### focus marker_id
+    Center and zoom to the marker with the specified id.
 
 Version notes
 -------------
@@ -118,7 +118,7 @@ Version notes
       - Smaller markers (pins) that appear when zoomed past a configurable
         threshold.
       - Use CSS hardware tranforms instead of $.animate() when available.
-      - Automatic maxzoom that does not allow upscaling.
+      - Automatic max_zoom that does not allow upscaling.
       - Call $.alottazoom() with an object again after construction for
         updating multiple properties at once.
       - A command similar to "goto" that auto navigates to markers and pins
