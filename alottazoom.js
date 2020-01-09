@@ -281,7 +281,7 @@
       }, options );
 
       $alottazoom.addClass('alottazoom-wrapper-loading').data('alottazoom', settings);
-      settings.$image.addClass('alottazoom-image-loading').load(function() {
+      settings.$image.addClass('alottazoom-image-loading').on('load', function() {
 
         $alottazoom.removeClass('alottazoom-wrapper-loading').addClass('alottazoom-wrapper');
         settings.$image.removeClass('alottazoom-image-loading').addClass('alottazoom-image');
