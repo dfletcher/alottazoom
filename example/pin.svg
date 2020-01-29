@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3027"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="pin.svg">
+  <defs
+     id="defs3029">
+    <filter
+       inkscape:collect="always"
+       id="filter4470"
+       x="-0.13474258"
+       width="1.2694852"
+       y="-0.09778805"
+       height="1.1955761">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.6834504"
+         id="feGaussianBlur4472" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="753"
+     inkscape:window-height="545"
+     inkscape:window-x="65"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3032">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4474"
+       inkscape:export-filename="/home/fletch/drupal/monacaron.monkeysatkeyboards.com/sites/all/libraries/alottazoom/example/pin.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g4452">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 378,509.08945 0,33.54546"
+           id="path4450"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#007c0d;fill-opacity:1;stroke:#000000;stroke-width:1.28905427;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3803"
+           sodipodi:cx="27.672518"
+           sodipodi:cy="42.788136"
+           sodipodi:rx="3.4862843"
+           sodipodi:ry="2.7300241"
+           d="m 31.158802,42.788136 a 3.4862843,2.7300241 0 1 1 -6.972568,0 3.4862843,2.7300241 0 1 1 6.972568,0 z"
+           transform="matrix(2.0981336,-0.1652807,-0.08226375,2.6375922,323.95152,400.25836)" />
+      </g>
+      <g
+         transform="matrix(0.83237974,0,-0.42397268,0.78791605,293.11093,117.20133)"
+         style="fill:#000000;opacity:0.75000000000000000;filter:url(#filter4470)"
+         id="g4456">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4458"
+           d="m 378,509.08945 0,33.54546"
+           style="fill:#000000;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           transform="matrix(2.0981336,-0.1652807,-0.08226375,2.6375922,323.95152,400.25836)"
+           d="m 31.158802,42.788136 c 0,1.50775 -1.560863,2.730024 -3.486284,2.730024 -1.925422,0 -3.486284,-1.222274 -3.486284,-2.730024 0,-1.507751 1.560862,-2.730025 3.486284,-2.730025 1.925421,0 3.486284,1.222274 3.486284,2.730025 z"
+           sodipodi:ry="2.7300241"
+           sodipodi:rx="3.4862843"
+           sodipodi:cy="42.788136"
+           sodipodi:cx="27.672518"
+           id="path4460"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.28905427000000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           sodipodi:type="arc" />
+      </g>
+    </g>
+  </g>
+</svg>

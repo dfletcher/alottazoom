@@ -9,11 +9,12 @@
     <style>@import url("example.css");</style>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" ></script>
     <script>window.jQuery || document.write('<script src="jquery.min.js">\x3C/script>')</script>
-    <script src="../alottazoom.min.js"></script>
+    <script src="jquery.transform2d.js"></script>
+    <script src="../alottazoom.js"></script>
     <script>
       (function ( $ ) {
         $(document).ready(function() {
-          $('#wrapper').alottazoom({
+          $('#alottazoom-example-wrapper').alottazoom({
             zoom: 'fill',
             marker_activate_callback: function($alottazoom, $marker) {
               $('.marker-content-' + $marker.attr('id')).slideDown('slow');
@@ -21,31 +22,41 @@
             marker_deactivate_callback: function($alottazoom, $marker) {
               $('.marker-content-' + $marker.attr('id')).slideUp('fast');
             },
+            zoom_callback: function($alottazoom, currentzoom, newzoom) {
+              if (newzoom > 0.5) {
+                $('.pin').addClass('visible');
+              }
+              else {
+                $('.pin').removeClass('visible');
+              }
+            }
           });
         });
       }( jQuery ));
     </script>
   </head>
 
-  <body>
+  <body id="alottazoom-example">
     <h1>AlottaZoom: Smooth jQuery pan and zoom</h1>
     <a class="download" href="https://github.com/dfletcher/alottazoom">download from github</a>
-    <div id="wrapper">
-      <img src="example.png">
-      <a id="test1" title="Test 1" href="#" class="marker" data-x="320" data-y="1450"></a>
-      <a id="test2" title="Test 2" href="#" class="marker" data-x="1500" data-y="40"></a>
+    <div id="alottazoom-example-wrapper">
+      <img src="markertest.png">
+      <a id="test1" title="Test 1" href="#" class="marker" data-x="320" data-y="1450"><span>Test 1</span></a>
+      <a id="test2" title="Test 2" href="#" class="marker" data-x="1500" data-y="50"><span>Test 2</span></a>
+      <a id="pintest1" title="Pin test 1" href="#" class="marker pin" data-x="420" data-y="1550"><span>Pin test 1</span></a>
+      <a id="pintest2" title="Pin test 2" href="#" class="marker pin" data-x="220" data-y="1350"><span>Pin test 2</span></a>
     </div>
     <div id="directional">
-      <a id="directional-up" href="#" onclick="$('#wrapper').alottazoom('shift', 0, 150); return false;">Up</a>
+      <a id="directional-up" href="#" onclick="$('#alottazoom-example-wrapper').alottazoom('shift', 0, 150); return false;">Up</a>
       <div id="directional-middle">
-        <a id="directional-left" href="#" onclick="$('#wrapper').alottazoom('shift', 150, 0); return false;" >Left</a>
-        <a id="directional-reset" href="#" onclick="$('#wrapper').alottazoom('reset'); return false;">Reset</a>
-        <a id="directional-right" href="#" onclick="$('#wrapper').alottazoom('shift', -150, 0); return false;">Right</a>
+        <a id="directional-left" href="#" onclick="$('#alottazoom-example-wrapper').alottazoom('shift', 150, 0); return false;" >Left</a>
+        <a id="directional-reset" href="#" onclick="$('#alottazoom-example-wrapper').alottazoom('reset'); return false;">Reset</a>
+        <a id="directional-right" href="#" onclick="$('#alottazoom-example-wrapper').alottazoom('shift', -150, 0); return false;">Right</a>
       </div>
-      <a id="directional-down" href="#" onclick="$('#wrapper').alottazoom('shift', 0, -150); return false;">Down</a>
+      <a id="directional-down" href="#" onclick="$('#alottazoom-example-wrapper').alottazoom('shift', 0, -150); return false;">Down</a>
     </div>
     <div id="gotos">
-      <a href="#" onclick="$('#wrapper').alottazoom('goto', 320, 1450, 0.5); return false;">Test 1</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#" onclick="$('#wrapper').alottazoom('goto', 1500, 40, 0.5); return false;">Test 2</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#" onclick="$('#wrapper').alottazoom('reset'); return false;">Reset</a>
+      <a href="#" onclick="$('#alottazoom-example-wrapper').alottazoom('goto', 'test1', 0.8); return false;">Test 1</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#" onclick="$('#alottazoom-example-wrapper').alottazoom('goto', 1500, 50, 0.8); return false;">Test 2</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#" onclick="$('#alottazoom-example-wrapper').alottazoom('reset'); return false;">Reset</a>
     </div>
     <div id="marker-content-box">
       <div class="marker-content marker-content-test1">

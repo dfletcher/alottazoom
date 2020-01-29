@@ -1,44 +1,20 @@
-IMG.alottazoom-image {
-  height: auto;
-  left: 0;
-  top: 0;
-  position: relative;
-  display: block;
-}
-
-IMG.alottazoom-image-loading {
-  width: 1px;
-  height: 1px;
-  left: -1px;
-  top: -1px;
-  position: relative;
-  display: block;
-}
-
-.alottazoom-wrapper::selection,
-.alottazoom-wrapper::-moz-selection,
-.alottazoom-wrapper-loading::selection,
-.alottazoom-wrapper-loading::-moz-selection,
-IMG.alottazoom-image::selection,
-IMG.alottazoom-image::-moz-selection,
-IMG.alottazoom-image-loading::selection,
-IMG.alottazoom-image-loading::-moz-selection {
-  background-color: transparent;
-  color: rgba(0,0,0,0);
-}
-
 .alottazoom-wrapper {
   overflow: hidden;
+  position: relative;
+  clip: rect(0 0 0 0) !important;
+}
+
+.alottazoom-wrapper > * {
+  position: absolute;
+  margin: 0;
+  padding: 0;
 }
 
 .alottazoom-wrapper .marker {
-  position: relative;
+
 }
 
 .alottazoom-pin {
 
 }
 
-.marker-content {
-  display: none;
-}
